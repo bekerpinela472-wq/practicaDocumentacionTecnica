@@ -1,5 +1,5 @@
 # Programa de Suma de Dos Números
-Version 1.1.0
+Version 2.0.0
 
 ## Descripción
 
